@@ -3,6 +3,8 @@ gapminder <- read.csv("gapminder-FiveYearData.csv")
 #Notes form scw
 #Date: January 17-18, 2017
 #Author: Claudia Figueroa
+#Lunch time
+
 
 #head
 #str
