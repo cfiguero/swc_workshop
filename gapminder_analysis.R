@@ -2,7 +2,7 @@ download.file("https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/
 gapminder <- read.csv("gapminder-FiveYearData.csv")
 #Notes form scw
 #Date: January 17-18, 2017
-
+#Author: Claudia Figueroa
 
 #head
 #str
